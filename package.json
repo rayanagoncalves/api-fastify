@@ -4,6 +4,7 @@
   "description": "API desenvolvida utilizando Node.js, Fastify e TypeScript.",
   "main": "index.js",
   "scripts": {
+    "dev": "tsx watch src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
