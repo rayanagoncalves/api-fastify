@@ -1,0 +1,20 @@
+{
+  "name": "api-fastify",
+  "version": "1.0.0",
+  "description": "API desenvolvida utilizando Node.js, Fastify e TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.16.5",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@types/node": "^22.1.0",
+    "fastify": "^4.28.1"
+  }
+}
